@@ -1,0 +1,47 @@
+{
+  "name": "Diploma Project Web-Agregator",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.14",
+    "@material-ui/icons": "^4.9.1",
+    "@types/jest": "24.0.0",
+    "@types/node": "10.12.21",
+    "@types/react": "16.9.35",
+    "@types/react-dom": "16.9.8",
+    "@types/react-router-dom": "5.1.5",
+    "dexie": "^3.0.1",
+    "framer-motion": "^1.11.1",
+    "notistack": "^0.8.2",
+    "opml-generator": "^1.1.1",
+    "opml-to-json": "0.0.3",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-recollect": "5.2.3",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "^4.0.1",
+    "react-virtualized-auto-sizer": "^1.0.2",
+    "react-window": "^1.8.5",
+    "tiny-relative-date": "^1.3.0",
+    "typescript": "3.9.5",
+    "use-debounce": "^3.4.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "comlink-loader": "^2.0.0"
+  }
+}

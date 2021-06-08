@@ -3,9 +3,9 @@ import React from 'react'
 
 export default () => <div>
     <Typography variant="h4">
-        About
+        Diploma Project Web-Agregator
     </Typography>
-    <Typography>
-        Hi Denys Porshniev send you Hello!
+    <Typography gutterBottom>
+        Hi by Denys Porsniev!
     </Typography>
 </div>

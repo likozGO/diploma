@@ -33,7 +33,7 @@ export default (props: { trigger: JSX.Element }) => {
                     <ListLinkButton icon={<Book />} text="Articles" href="/stream" />
                     <ListLinkButton icon={<RssFeed />} text="Subscriptions" href="/subscriptions" />
                     <ListLinkButton icon={<SettingsIcon />} text="Settings" href="/settings" />
-                    {/*<ListLinkButton icon={<Help />} text="About" href="/about" />*/}
+                    <ListLinkButton icon={<Help />} text="About" href="/about" />
                     {installPrompt && <ListItem button onClick={installPrompt}>
                         <ListItemIcon>
                             <GetApp />
